@@ -1,0 +1,16 @@
+body {
+  padding-top: 50px;
+}
+footer{
+    background-color: black;
+    padding: 2px;
+    font-size: 12px;
+    font-family: fantasy;
+    text-align: center;
+}
+#footer{
+    color: beige;
+    font-family: inherit;
+    text-align: right;
+    font-size: 20px;
+}
